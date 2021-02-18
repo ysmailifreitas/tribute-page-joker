@@ -1,4 +1,4 @@
-This project is one of five projects of the FreeCodeCamp course
+This project is one of the five projects of the FreeCodeCamp course
 
 You can see this project by clicking on the link bellow: 
 
